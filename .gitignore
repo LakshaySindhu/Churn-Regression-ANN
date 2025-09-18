@@ -35,3 +35,5 @@ pip-delete-this-directory.txt
 
 
 hyper_parameter_tuning.ipynb
+
+*tuner_dir
